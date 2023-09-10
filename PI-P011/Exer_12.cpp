@@ -26,7 +26,7 @@ string compara(string word1, string word2)
 int main(void)
 {
     string newWord;
-    newWord = compara("Manoel","Maneiro");
+    newWord = compara("Daniel","Residência");
     cout << endl;
     cout << "Nova string: " << newWord << endl;
     return 0;
